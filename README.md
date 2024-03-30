@@ -24,7 +24,7 @@ If you don't know how to run a Python script, check [this 2-minute tutorial](htt
 3. Run the following command to build exe.
   
 ```
-pyinstaller.exe --onefile --icon=one.ico One.py
+pyinstaller.exe --onefile --noconsole One.py
 ```
 
 4. Go to the `dist` folder and click on the exe file to launch the App.
