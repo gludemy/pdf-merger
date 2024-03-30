@@ -2,8 +2,6 @@
 
 ![img](screenshot.png)
 
-This simple desktop App allow you to merge multiple PDF files into one single file, if a page in any of a PDF file is in landscape view, it will be rotated to be protrait before it been merged.
-
 This simple desktop application allows you to merge multiple PDF files into a single document. If any page within a PDF is in landscape orientation, it will be automatically rotated to portrait orientation before being merged.
 
 
