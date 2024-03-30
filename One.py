@@ -8,7 +8,7 @@ from datetime import date
 
 window = Tk()
 window.title("PDF Merger - Gludemy.com")
-window.geometry('290x290')
+window.geometry('320x290')
 window.configure(bg='#005a95')
 
 
